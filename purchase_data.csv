@@ -1,0 +1,11 @@
+Customer_ID,Product_Category,Purchase_Amount,Timestamp
+C001,Electronics,250.75,2024-01-15 14:30:00
+C002,Clothing,45.0,2024-01-15 16:00:00
+C003,Home Appliances,120.0,2024-01-16 10:15:00
+C001,Books,75.5,2024-01-17 11:45:00
+C002,Electronics,300.25,2024-01-18 09:20:00
+C003,Clothing,60.0,2024-01-19 15:30:00
+C004,Electronics,180.5,2024-01-20 13:45:00
+C005,Home Appliances,95.75,2024-01-21 16:20:00
+C001,Books,45.25,2024-01-22 10:10:00
+C002,Accessories,35.0,2024-01-23 14:55:00
